@@ -2,9 +2,10 @@
 
 # HTML & CSS :
 The work-done in this Assignment is to give transformation to the booking button using CSS transition property.
-By this when we hover on the button, the button is rotated & get bigger in size smoothly.
+By this when we hover on the button, the button is rotated smoothly.
 
 # Deployed link :
+https://srajjak-3012.github.io/CSS-Button-transformation-Ass-09/
 
 # How to Deploy a Website on GitHub Pages:----------------------->
 Step 1: Create a New Repository
